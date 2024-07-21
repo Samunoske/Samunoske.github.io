@@ -29,4 +29,5 @@ nav-menu: true
 <li><a rel="me" href="https://github.com/samunoske">GitHub</a></li>
 <li><a rel="me" href="https://www.twitter.com/samunoskex">X (or the site formerly known as Twitter)</a></li></ul>
 <br />
+<h2>Projects:</h2>
 <p>I have a repository of SOC Tools that I find useful and have collected over the years. Maybe you will find it useful too: <a rel="me" href="https://github.com/samunoske/SOC-Tools">SOC Tools</a></p>
