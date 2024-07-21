@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Samunoske
-image: assets/images/pic01.jpg
+image: assets/images/aboutpic.png
 nav-menu: true
 ---
 
