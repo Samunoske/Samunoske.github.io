@@ -3,9 +3,9 @@ layout: allposts
 title: Blog Posts
 landing-title: 'All posts'
 nav-menu: true
-description: null
+description: All Blog Posts from ilovesec
 image: null
-author: null
+author: Samunoske
 show_tile: true
 ---
 
