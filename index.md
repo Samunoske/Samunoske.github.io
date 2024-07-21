@@ -1,7 +1,11 @@
-Here you can say lots of fun things about your site.
+Hi. I'm Samunoske. I'm an avid information security practicioner. Some might say <b><u>ilovesec</u></b> but at this point, I think that may be hearsay.
 
-Maybe say a some things about yourself.
+This is my blog - It's not much, but it's an honest page. If you happen to find me and know my employer, please be aware that none of the stuff on this page (or really any of my online stuff, really) is reflective of my employer or my employer's views. I don't speak on their behalf. Thoughts and opinions expressed are wholly mine.
 
-Or maybe what you plan to blog about.
+You can reach me at:
+- <a rel="me" href="https://infosec.exchange/@Samunoske">Mastodon</a>
+- <a rel="me" href="https://bsky.app/profile/ilovesec.com">Bluesky</a>
+- <a rel="me" href="https://github.com/samunoske">GitHub</a>
+- <a rel="me" href="https://www.twitter.com/samunoskex">X (or the site formerly known as Twitter)</a>
 
-<a rel="me" href="https://infosec.exchange/@Samunoske">Mastodon</a>
+I have a repository of SOC Tools that I find useful and have collected over the years. Maybe you will find it useful too: <a rel="me" href="https://github.com/samunoske/SOC-Tools">SOC Tools</a>.
