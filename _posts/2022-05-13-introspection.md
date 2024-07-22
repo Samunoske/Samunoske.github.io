@@ -1,6 +1,11 @@
+---
+layout: post
+title: Introspection from an Introverted Information Security Instructor
+description: Starting Over
+image:
+---
 <a href="#introspection"></a>
 <i>Originally posted on LinkedIn on May 13, 2022</i>
-<h1>Introspection from an Introverted Information Security Instructor</h1>
 
 <p>On the eve before I issue final exams for my students in my class, I'm taking some time to reflect on lessons learned as a first-time instructor:</p>
 <h2>1. Some say the best way for you to learn something is to teach someone else</h2>
