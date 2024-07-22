@@ -2,6 +2,6 @@
 layout: post
 title: Updating
 description:
+anchor: updating
 ---
-<h2 id="updating"></h2>
 Testing a new post here.
