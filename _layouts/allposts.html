@@ -21,10 +21,9 @@
 	<div class="inner">
           {% for post in site.posts %}
 	  {% if post.title != 404 %}
-	  <h1 id="{{ post.anchor }}"></h1><header class="major">
-	    <h1></h1><hr>
+	  <header  id="{{ post.anchor }}" class="major">
+	    <h1>{{ post.title }}</h1>
 	  </header>
-    <h1>{{ post.title }}</h1>
 	  {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
 	  {% if post.date %}<p>{{ post.date }}</p>{% endif %}
 	  <p>{{ post.content }}</p>
