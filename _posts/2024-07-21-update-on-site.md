@@ -3,5 +3,5 @@ layout: post
 title: Updating
 description:
 ---
-<a href="#updating"></a>
+<div id="#updating"></div>
 Testing a new post here.

@@ -4,7 +4,7 @@ title: Introspection from an Introverted Information Security Instructor
 description: Starting Over
 image:
 ---
-<a href="#introspection"></a>
+<div id="#introspection"></div>
 <i>Originally posted on LinkedIn on May 13, 2022</i>
 
 <p>On the eve before I issue final exams for my students in my class, I'm taking some time to reflect on lessons learned as a first-time instructor:</p>
