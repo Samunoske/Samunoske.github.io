@@ -1,0 +1,8 @@
+---
+layout: post
+title: DEFCON 32 is coming fast!
+description:
+anchor: dc32-prep
+---
+<p>I'm prepping myself for DEFCON 32 - getting stickers ready, put the (last minute!) orders out there and look forward to sharing them with people at the Con.</p>
+<p>I'm also looking forward to catching up with friends I've made over the years - my first DC was 28 in 2018, which seems so long ago at this point. Can't wait to see you all there!</p>
