@@ -16,6 +16,7 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
+![Samuno's Picture](https://github.com/samunoske/samunoske.github.io/blob/main/assets/images/aboutpic.png?raw=true)
 <h2 id="content">Hi, I'm Samunoske.</h2>
 <p>I'm an avid information security practicioner. Some might say <b><u>ilovesec</u></b> but at this point, I think that may be hearsay.</p>
 <p>This is my blog - It's not much, but it's an honest page. If you happen to find me and know my employer, please be aware that none of the stuff on this page (or any of my stuff, really) is reflective of my employer or my employer's views. I don't speak on their behalf. Thoughts and opinions expressed are wholly mine.</p>
