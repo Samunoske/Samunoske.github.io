@@ -23,7 +23,7 @@ nav-menu: true
 <p>It might be difficult to say my handle if you've ever tried to say it. I also go by <b>Sam Uno</b>.</p>
 <h2>If you want to, you can reach me at:</h2>
 <ul>
-<li><a rel="me" href="https://www.linkedin.com/thejoshuamorgan">LinkedIn</a></li>
+<li><a rel="me" href="https://www.linkedin.com/in/thejoshuamorgan">LinkedIn</a></li>
 <li><a rel="me" href="https://infosec.exchange/@Samunoske">Mastodon</a></li>
 <li><a rel="me" href="https://bsky.app/profile/ilovesec.com">Bluesky</a></li>
 <li><a rel="me" href="https://github.com/samunoske">GitHub</a></li>
